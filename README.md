@@ -4,7 +4,7 @@ A web app that looks at a chest X-ray and tells whether it is **Normal**, **Bact
 
 It is built with classical machine learning, not deep learning. Every X-ray is turned into 1,845 hand-crafted features (shape, texture and brightness), and a trained classifier picks the most likely class. It runs on an ordinary CPU.
 
-**Live demo:** [add your Render link here]
+**Live :** https://pneumonia-xray-classifier-cbn4.onrender.com
 
 > This is a student project for learning purposes. It is not a medical device and its result is not a diagnosis. A real X-ray must always be read by a doctor.
 
