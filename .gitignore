@@ -1,0 +1,12 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+dataset/
+*.npz
+*.keras
+test_predictions*.csv
+.DS_Store
+Thumbs.db

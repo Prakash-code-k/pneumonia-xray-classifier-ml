@@ -1,0 +1,9 @@
+flask
+gunicorn
+numpy
+scipy
+opencv-python-headless
+scikit-image
+scikit-learn
+joblib
+xgboost
